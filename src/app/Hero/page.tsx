@@ -14,7 +14,7 @@ const Hero = () => {
         className="absolute flex ml-8 md:ml-[550px] mt-[85px] text-xl"
         data-aos="fade-left"
       >
-        <p>Hello 👋 I’m</p>
+        <p>Hiiiiiiiii 👋 I’m</p>
         <section className="animation">
           <div className="first">
             <div>Varun Gaudani</div>
